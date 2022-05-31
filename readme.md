@@ -64,3 +64,22 @@ There are various place for improvement.
     3. Deep learning model could be much used.
     4. Classes could be much balanced.
     5. other model could be used to classifiy for the better result
+### 
+## Insight
+
+```
+Ram is the good boy and he is good
+```
+![alt text](https://github.com/ashishjamarkattel/sentimetanalysis/blob/master/moodme.PNG)
+
+```
+ram is dangerous and he might kill you and me
+```
+![alt text](https://github.com/ashishjamarkattel/sentimetanalysis/blob/master/toxic.png)
+
+```
+Fuck and ran away
+```
+
+![alt text](https://github.com/ashishjamarkattel/sentimetanalysis/blob/master/multiple.png)
+
