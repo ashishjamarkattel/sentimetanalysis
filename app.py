@@ -118,7 +118,6 @@ def predict():
 
     text = request.form['sentiment']
     text = text_preprocess(text)
-    print(text)
     vector = tfidf.transform([text])
     predicted = model.predict(vector.A)
 
